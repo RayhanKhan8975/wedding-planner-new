@@ -586,3 +586,8 @@ section{
    }
 
 }
+.box div {
+   display: inline-grid;
+   margin: 3px;
+   padding: 1px;
+}
